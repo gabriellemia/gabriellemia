@@ -1,3 +1,8 @@
+
+
+![github profile banner](https://github.com/gabriellemia/gabriellemia/assets/78322726/57dad6a1-100f-418c-a89f-c90afb6ab79a)
+
+
 Hi there 🙋‍♀️
 
 - 🔭 I’m currently learning to code using The Odin Project and have just enrolled in the School of Code skills bootcamp, so for the next 16 weeks I'll be getting my coding skills polished to industry standard and ready to start a new career in tech!
