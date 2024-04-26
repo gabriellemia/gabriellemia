@@ -10,6 +10,6 @@ Hi there 🙋‍♀️
 - 💬 Ask me about anything tech related. I'm eager to learn as much as I can and delve into topics known and unknown. 
 - ⚡ Fun fact: I failed IT in school and before 2020 had no noteworthy skills in tech whatsoever.  In fact I actually hated the thought of having to use a computer for more than browsing the web.  Now I can't wait to solve the next coding problem!
 
-- 🗞️Though I have been learning to code since 2020, I will be updating my coding journey here from now on if you want to follow it...
+- 🗞️ Though I have been learning to code since 2020, I will be updating my coding journey here from now on if you want to follow it...
 -  👀 Check out some of my projects below
 
