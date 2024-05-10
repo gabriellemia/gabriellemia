@@ -12,7 +12,7 @@
 - 🗞️ Though I have been learning to code since 2020, I will be updating my coding journey here from now on if you want to follow it...
 -  👀 Check out some of my projects below
 
-## Tach Skills
+## Tech Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
