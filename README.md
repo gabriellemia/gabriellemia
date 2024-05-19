@@ -6,7 +6,6 @@
 
 - 🚀 I’m a self taught developer and, more recently, a School of Code bootcamp graduate! So for the past 16 weeks I have been building and refining my technical skills in all areas of development and getting industry prepared, ready to launch into a new career in tech!
 - 💻 Some of my technical skills include HTML, CSS, JavaScript, Node.js, React, SQL, Express, TypeScript, TDD, UX/UI design, CI/CD, DevOps, Cyber Security, Data and AI. The list is not exhaustive, I continue to grow and learn new things daily!
-- 💬 Ask me about anything tech related. I'm still a novice but I'm eager to learn as much as I can and delve into topics known and unknown. 
 - ⚡ Fun fact: I failed IT in school and this put me in the mindset that tech just wasn't for me. I wish I knew back then that this did not have to define my path. Before 2020 I had no noteworthy skills in tech whatsoever. By some twist of fate, or maybe it was the need to make a change and find something I trully enjoy that also challenges me,  I decided to change the way I viewed what I could and could not do and my approach to learning.  With a little nudge in the code direction I found a new passion and now I cannot wait to solve the next problem thrown my way!
 
 - 🗞️ Though I have been learning to code since 2020, I will be updating my coding journey here from now on if you want to follow it...
