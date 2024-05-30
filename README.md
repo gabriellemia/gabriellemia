@@ -5,8 +5,7 @@
 ## Hi there, I'm Gaby 🙋‍♀️ Welcome to my GitHub! 
 
 - 🚀 I’m a self taught developer and, more recently, a School of Code bootcamp graduate! So for the past 16 weeks I have been building and refining my technical skills in all areas of development and getting industry prepared, ready to launch into a new career in tech!
-- 💻 Some of my technical skills include HTML, CSS, JavaScript, Node.js, React, SQL, Express, TypeScript, TDD, UX/UI design, CI/CD, DevOps, Cyber Security, Data and AI. The list is not exhaustive, I continue to grow and learn new things daily!
-- ⚡ Fun fact: I failed IT in school and this put me in the mindset that tech just wasn't for me. I wish I knew back then that this did not have to define my path. Before 2020 I had no noteworthy skills in tech whatsoever. By some twist of fate, or maybe it was the need to make a change and find something I trully enjoy that also challenges me,  I decided to change the way I viewed what I could and could not do and my approach to learning.  With a little nudge in the code direction I found a new passion and now I cannot wait to solve the next problem thrown my way!
+- 💻 I have included some of my technical skills below but aside from these I also have knowledge in: TDD, UX/UI product design and user research, CI/CD pipeline, DevOps, Cyber Security, Data and AI, mob/pair programming, Agile methodologies, computational thinking and problem solving as well as proffessional skills necessary in a tech environment. The list is not exhaustive, I continue to grow and learn new things daily!
 
 - 🗞️ Though I have been learning to code since 2020, I will be updating my coding journey here from now on if you want to follow it...
 -  👀 Check out some of my projects pinned below or visit my repositories page for more:
@@ -26,11 +25,16 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
