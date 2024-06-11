@@ -1,6 +1,23 @@
 
 ![github profile banner (3)](https://github.com/gabriellemia/gabriellemia/assets/78322726/10e64037-0254-4e9f-b7ad-0ea89e8ab4de)
 
+<a href="https://www.linkedin.com/in/gabriellemia/">
+  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/7db2d0a6-053c-4ef9-b647-9393b6215d06"/>
+</a>
+
+<a href="https://github.com/gabriellemia">
+  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/e12067b2-74c0-46ca-b5eb-553eea2383c1"/>
+</a>
+
+<a href="https://gabriellemia.me/">
+  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/eb34f5f3-cdc4-489d-8b08-b2a33979189c"/>
+</a>
+
+<a href="https://x.com/gabriellemia88">
+  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/d6367773-054d-483a-8945-0186c51fbcc4"/>
+</a>
+
+
 
 ## Hi there, I'm Gaby 🙋‍♀️ Welcome to my GitHub! 
 
