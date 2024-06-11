@@ -1,21 +1,25 @@
 
 ![github profile banner (3)](https://github.com/gabriellemia/gabriellemia/assets/78322726/10e64037-0254-4e9f-b7ad-0ea89e8ab4de)
 
-<a href="https://www.linkedin.com/in/gabriellemia/">
-  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/7db2d0a6-053c-4ef9-b647-9393b6215d06"/>
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/gabriellemia/" target="_blank">
+  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/f284117d-7e7e-4c70-9a9d-19d84f1cd134"/>
 </a>
 
-<a href="https://github.com/gabriellemia">
-  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/e12067b2-74c0-46ca-b5eb-553eea2383c1"/>
+<a href="https://github.com/gabriellemia" target="_blank">
+  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/580b330f-bc70-48ac-a515-82a09c7b4c98"/>
 </a>
 
-<a href="https://gabriellemia.me/">
-  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/eb34f5f3-cdc4-489d-8b08-b2a33979189c"/>
+<a href="https://gabriellemia.me/" target="_blank">
+  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/d4b47a29-20cd-46ac-926f-2a573da3532c"/>
 </a>
 
-<a href="https://x.com/gabriellemia88">
-  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/d6367773-054d-483a-8945-0186c51fbcc4"/>
+<a href="https://x.com/gabriellemia88" target="_blank">
+  <img height="50" src="https://github.com/gabriellemia/gabriellemia/assets/78322726/351e726f-999b-4955-a280-a1ccc7059490"/>
 </a>
+
+</div>
 
 
 
