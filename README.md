@@ -1,6 +1,5 @@
 
-![github profile banner (2)](https://github.com/gabriellemia/gabriellemia/assets/78322726/0b968196-7b95-4b4e-aac7-b604092e365e)
-
+![github profile banner (3)](https://github.com/gabriellemia/gabriellemia/assets/78322726/ca95eb5c-49a5-4d20-98e5-9ce67d8d2832)
 
 
 ## Hi there, I'm Gaby 🙋‍♀️ Welcome to my GitHub! 
