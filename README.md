@@ -25,20 +25,45 @@
 
 ## Hi there, I'm Gaby 🙋‍♀️ Welcome to my GitHub! 
 
-- 🚀 I’m a self taught developer with a background in Biomedical Research and, more recently, a School of Code bootcamp graduate! So for the past 16 weeks I have been building and refining my technical skills in all areas of development and getting industry prepared, ready to launch into a new career in tech!
-- 💻 I have included some of my technical skills below but aside from these I also have knowledge in: TDD, UX/UI product design and user research, CI/CD pipeline, DevOps, Cyber Security, Data and AI, mob/pair programming, Agile methodologies, computational thinking and problem solving as well as proffessional skills necessary in a tech environment. The list is not exhaustive, I continue to grow and learn new things daily!
+```yaml
 
-- 📚 Continued development
-    - I'm currently using Datacamp and Kaggle courses to improve my data skills, particularly using SQL and Python to manipulate data.
-    - Leetcode
-    - Ongoing work on personal projects to improve on my current stack
-    - Virtual events
-    - Tech literature
+Background:
+Self taught developer with a background in Biomedical Research and, more recently,
+School of Code bootcamp graduate! So for the past 16 weeks I have been building and refining my
+technical skills in all areas of development and getting industry prepared,ready to launch into
+a new career in tech!
+
+Other Skills:
+I have included some of my technical skills below but aside from these I also have knowledge in:
+    [
+      "TDD",
+      "UX/UI product design and user research",
+      "CI/CD pipeline, DevOps, Cyber Security",
+      "Data and AI",
+      "mob/pair programming",
+      "Agile methodologies",
+      "computational thinking and problem solving",
+      "proffessional skills necessary in a tech environment",
+    ]
+The list is not exhaustive, I continue to grow and learn new things daily!
+
+Continued development:
+    [
+      "Datacamp and Kaggle courses to improve my data skills, particularly using SQL and Python to manipulate data",
+      "Leetcode",
+      "Ongoing work on personal projects to improve on my current stack",
+      "Virtual events",
+      "Tech literature",
+    ]
 
 
--  👀 Check out some of my projects pinned below or visit my repositories page for more:
+-  👀 Check out some of my projects pinned below or visit my repositories page for more
+
+```
 
 **Full list of projects:**  https://github.com/gabriellemia?tab=repositories
+
+
 
 ## Tech Skills
 
