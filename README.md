@@ -114,6 +114,3 @@ Continued development:
 </a>
 
 
-
-![Snake animation](https://github.com/gabriellemia/gabriellemia/blob/output/github-contribution-grid-snake.svg)
-
