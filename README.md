@@ -103,3 +103,17 @@ Continued development:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
+## GitHub History
+
+<a href="https://github.com/gabriellemia/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemia&layout=donut&bg_color=30,CBFDD9,99BFFB&title_color=4C71F2&text_color=000" />
+</a>
+
+<a href="https://github.com/gabriellemia/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellemia&show_icons=true&bg_color=30,CBFDD9,99BFFB&title_color=4C71F2&text_color=000" />
+</a>
+
+
+
+![Snake animation](https://github.com/gabriellemia/gabriellemia/blob/output/github-contribution-grid-snake.svg)
+
