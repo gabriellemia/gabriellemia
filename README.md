@@ -1,5 +1,6 @@
 
-![github profile banner (3)](https://github.com/gabriellemia/gabriellemia/assets/78322726/10e64037-0254-4e9f-b7ad-0ea89e8ab4de)
+![github profile banner (4)](https://github.com/gabriellemia/gabriellemia/assets/78322726/d697a821-98ed-4810-aff4-a511dfe71098)
+
 
 <div align="center">
   
