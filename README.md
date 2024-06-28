@@ -114,4 +114,8 @@ Continued development:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellemia&show_icons=true&bg_color=30,CBFDD9,99BFFB&title_color=4C71F2&text_color=000" />
 </a>
 
+## Codewars Stats
+
+![Codewars](https://github.r2v.ch/codewars?user=gabriellemia&top_languages=true&stroke=%23b362ff&theme=solarized_dark)
+
 
